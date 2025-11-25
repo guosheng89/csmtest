@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-10-08",
+  "main": "src/index.ts",
+  "name": "csmtest",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "6be782dd-71b3-4b6b-b5e2-db92068ece63",
+      "database_name": "medical-database"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
